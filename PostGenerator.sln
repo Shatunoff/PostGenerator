@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "PostGenerator\View.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentor", "Presentor\Presentor.csproj", "{E1E7C9FA-57F6-4E5A-AB2A-EA3004F5806D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{CB0C7EF9-CA00-4AEA-AF5C-83B302D44042}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Model\Domain.csproj", "{CB0C7EF9-CA00-4AEA-AF5C-83B302D44042}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
